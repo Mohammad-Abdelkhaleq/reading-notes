@@ -7,6 +7,7 @@ this website is to list my **notes** and track my progress in web development
 - ### Code 201 - *Foundations of Software Development*
 - ### Code 301 - *Intermediate Software Development* -->
 <hr>
+
 - ### Code 401 - *Advanced Software Development*
 
 
