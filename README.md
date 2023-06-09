@@ -15,3 +15,6 @@ this website is to list my **notes** and track my progress in web development
 [-Code 401 - Data Structures and Algorithms ](./DataStructuresAndAlgorithms/README.md)
 
 [-Code 401 - class 2 readings ](./class2Reading/READMEe.md)
+
+
+[-Code 401 - class 3 readings ](./linked%20lists/READMEE%3Emd)
