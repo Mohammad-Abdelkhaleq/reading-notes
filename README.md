@@ -22,3 +22,5 @@ this website is to list my **notes** and track my progress in web development
 [-Code 401 - class 3 readings ](.//nosql%20vs%20sql/README.md)
 
 [-Code 401 - class 6 readings ](./calss6-authintication%20and%20authorization/README.md)
+
+[-Code 401 - class 7 readings ](./class7/README.md)
