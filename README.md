@@ -33,4 +33,6 @@ this website is to list my **notes** and track my progress in web development
 
 [-Code 401 - class 11 readings ](./class11-events/README.md)
 
-[-Code 401 - class 11 readings ](./class12-webSockets/README.md)
+[-Code 401 - class 12 readings ](./class12-webSockets/README.md)
+
+[-Code 401 - class 13 readings ](./class13-socketIo/README.md)
