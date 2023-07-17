@@ -40,3 +40,5 @@ this website is to list my **notes** and track my progress in web development
 [-Code 401 - class 15 readings ](./class15-trees/README.md)
 
 [-Code 401 - class 16 readings ](./class-16-aws/README.md)
+
+[-Code 401 - class 17 readings ](./class17/README.md)
