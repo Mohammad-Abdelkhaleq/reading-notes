@@ -44,4 +44,4 @@ this website is to list my **notes** and track my progress in web development
 [-Code 401 - class 17 readings ](./class17/README.md)
 
 
-[-lab 17 ](./class17/README.md)
+[-lab 17 ](./lab17/README.md)
