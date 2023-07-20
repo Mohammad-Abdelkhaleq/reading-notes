@@ -1,0 +1,17 @@
+**1. Difference between AWS SQS and SNS:**
+SQS is a message queuing service for decoupling components, while SNS is for distributing messages to multiple subscribers.
+
+**2. Use Cases for SQS and SNS:**
+SQS for decoupling, load leveling, and asynchronous processing. SNS for push notifications, event broadcasting, and fanout pattern.
+
+**3. Using SQS and SNS in a "Fanout" Pattern:**
+Create an SNS topic as the message bus, subscribe SQS queues to it, and publish messages to the topic to deliver to all queues.
+
+**4. How Push Notifications Work Using SNS:**
+Mobile devices register with SNS, and backend subscribes devices to SNS topics. When a push notification is published, SNS delivers it to subscribed devices.
+
+**5. SQS and SNS Basics:**
+SQS - message queuing for communication. SNS - message distribution to subscribers.
+
+**6. Large Scale Distributed Application and SQS Usage:**
+SQS scales, ensures resilience, enables asynchronous processing, and decouples components for efficient load balancing in distributed applications.
