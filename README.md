@@ -52,3 +52,7 @@ this website is to list my **notes** and track my progress in web development
 [-Code 401 - class 18 readings ](./class18-AWS-Events/README)
 
 [-Code 401 - class 19 readings ](./class19-AWS:%20API,%20Dynamo%20and%20Lambda/README.md)
+
+# front-End
+
+[-Code 401 - class 26 readings ](./class-26-Component%20Based%20UI/README.md)
