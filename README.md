@@ -69,3 +69,6 @@ this website is to list my **notes** and track my progress in web development
 
 [-Code 401 - class 35 readings ](./class35-graphs/README.md)
 
+
+
+[-Code 401 - class 36 readings ](./class36/)
