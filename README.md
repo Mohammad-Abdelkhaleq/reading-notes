@@ -71,4 +71,7 @@ this website is to list my **notes** and track my progress in web development
 
 
 
-[-Code 401 - class 36 readings ](./class36/)
+[-Code 401 - class 36 readings ](./class36-redux/README.md)
+
+[-Code 401 - class 37 readings ](./class37-redux2/README.md)
+
