@@ -24,7 +24,7 @@ Additional Questions
 Looking ahead at this module’s course schedule, What do you look forward to learning?
 What are your learning goals after reading and reviewing the class README?
 
-<hr>
+<hrut >
 
 
 1. The First Principle of Redux:
